@@ -1,0 +1,2 @@
+- `uv init .` 
+    - to create a new virtual environment
